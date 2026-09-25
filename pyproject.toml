@@ -40,7 +40,7 @@ testpaths = "src tests"
 
 [dependency-groups]
 dev = [
-    "build>=1.3.0",
+    "build>=1.4.0",
     "cibuildwheel>=2.23.3",
     "cython>=3.1.4",
     "meson>=1.9.0",
